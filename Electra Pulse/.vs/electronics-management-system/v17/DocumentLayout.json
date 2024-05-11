@@ -1,0 +1,395 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\db\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|c:\\users\\administrator\\desktop\\db\\bl\\manufacturingstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|solutionrelative:bl\\manufacturingstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|C:\\Users\\Administrator\\Desktop\\db\\bl\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|solutionrelative:bl\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|C:\\Users\\Administrator\\Desktop\\db\\bl\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|solutionrelative:bl\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|C:\\Users\\Administrator\\Desktop\\db\\bl\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|solutionrelative:bl\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|C:\\Users\\Administrator\\Desktop\\db\\bl\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|solutionrelative:bl\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|C:\\Users\\Administrator\\Desktop\\db\\bl\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|solutionrelative:bl\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|C:\\Users\\Administrator\\Desktop\\db\\ui\\supply chain\\materialpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|solutionrelative:ui\\supply chain\\materialpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|C:\\Users\\Administrator\\Desktop\\db\\ui\\supply chain\\devicespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|solutionrelative:ui\\supply chain\\devicespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|C:\\Users\\Administrator\\Desktop\\db\\ui\\supply chain\\componentpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|solutionrelative:ui\\supply chain\\componentpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|C:\\Users\\Administrator\\Desktop\\db\\ui\\supplychainpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|solutionrelative:ui\\supplychainpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|C:\\Users\\Administrator\\Desktop\\db\\ui\\qualityassurancepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|solutionrelative:ui\\qualityassurancepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|C:\\Users\\Administrator\\Desktop\\db\\ui\\inventorypanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|solutionrelative:ui\\inventorypanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|C:\\Users\\Administrator\\Desktop\\db\\dl\\db\\productionlinedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|solutionrelative:dl\\db\\productionlinedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|C:\\Users\\Administrator\\Desktop\\db\\electronics-management-system.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|solutionrelative:electronics-management-system.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|C:\\Users\\Administrator\\Desktop\\db\\ui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|solutionrelative:ui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|C:\\Users\\Administrator\\Desktop\\db\\ui\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|solutionrelative:ui\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|C:\\Users\\Administrator\\Desktop\\db\\ui\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|solutionrelative:ui\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|C:\\Users\\Administrator\\Desktop\\db\\utils\\style.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|solutionrelative:utils\\style.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|C:\\Users\\Administrator\\Desktop\\db\\dl\\db\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|solutionrelative:dl\\db\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|C:\\Users\\Administrator\\Desktop\\db\\dl\\db\\auditlogdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|solutionrelative:dl\\db\\auditlogdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|C:\\Users\\Administrator\\Desktop\\db\\bl\\productionline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|solutionrelative:bl\\productionline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|C:\\Users\\Administrator\\Desktop\\db\\bl\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|solutionrelative:bl\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|C:\\Users\\Administrator\\Desktop\\db\\bl\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|solutionrelative:bl\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|C:\\Users\\Administrator\\Desktop\\db\\bl\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95425EC1-4226-46A3-8769-BB71BE064C8C}|electronics-management-system.csproj|solutionrelative:bl\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Component.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\db\\BL\\Component.cs",
+              "RelativeDocumentMoniker": "BL\\Component.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\db\\BL\\Component.cs",
+              "RelativeToolTip": "BL\\Component.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:43:47.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\db\\BL\\Category.cs",
+              "RelativeDocumentMoniker": "BL\\Category.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\db\\BL\\Category.cs",
+              "RelativeToolTip": "BL\\Category.cs",
+              "ViewState": "AQIAABcAAABANTMzMzMZwCgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:43:26.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\db\\BL\\AuditLog.cs",
+              "RelativeDocumentMoniker": "BL\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\db\\BL\\AuditLog.cs",
+              "RelativeToolTip": "BL\\AuditLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:43:23.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MaterialPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\db\\UI\\Supply Chain\\MaterialPanel.cs",
+              "RelativeDocumentMoniker": "UI\\Supply Chain\\MaterialPanel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\db\\UI\\Supply Chain\\MaterialPanel.cs [Design]",
+              "RelativeToolTip": "UI\\Supply Chain\\MaterialPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:42:22.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DevicesPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\db\\UI\\Supply Chain\\DevicesPanel.cs",
+              "RelativeDocumentMoniker": "UI\\Supply Chain\\DevicesPanel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\db\\UI\\Supply Chain\\DevicesPanel.cs [Design]",
+              "RelativeToolTip": "UI\\Supply Chain\\DevicesPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:42:21.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ComponentPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\db\\UI\\Supply Chain\\ComponentPanel.cs",
+              "RelativeDocumentMoniker": "UI\\Supply Chain\\ComponentPanel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\db\\UI\\Supply Chain\\ComponentPanel.cs [Design]",
+              "RelativeToolTip": "UI\\Supply Chain\\ComponentPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:42:18.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SupplyChainPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\db\\UI\\SupplyChainPanel.cs",
+              "RelativeDocumentMoniker": "UI\\SupplyChainPanel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\db\\UI\\SupplyChainPanel.cs [Design]",
+              "RelativeToolTip": "UI\\SupplyChainPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:42:06.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QualityAssurancePanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\db\\UI\\QualityAssurancePanel.cs",
+              "RelativeDocumentMoniker": "UI\\QualityAssurancePanel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\db\\UI\\QualityAssurancePanel.cs [Design]",
+              "RelativeToolTip": "UI\\QualityAssurancePanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:42:04.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InventoryPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\db\\UI\\InventoryPanel.cs",
+              "RelativeDocumentMoniker": "UI\\InventoryPanel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\db\\UI\\InventoryPanel.cs [Design]",
+              "RelativeToolTip": "UI\\InventoryPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:42:01.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "electronics-management-system",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\db\\electronics-management-system.csproj",
+              "RelativeDocumentMoniker": "electronics-management-system.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\db\\electronics-management-system.csproj",
+              "RelativeToolTip": "electronics-management-system.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-10T13:37:02.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\db\\UI\\Dashboard.cs",
+              "RelativeDocumentMoniker": "UI\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\db\\UI\\Dashboard.cs [Design]",
+              "RelativeToolTip": "UI\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:36:51.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\db\\UI\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "UI\\AdminPanel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\db\\UI\\AdminPanel.cs [Design]",
+              "RelativeToolTip": "UI\\AdminPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:36:50.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\db\\UI\\Home.cs",
+              "RelativeDocumentMoniker": "UI\\Home.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\db\\UI\\Home.cs [Design]",
+              "RelativeToolTip": "UI\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:36:37.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Style.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\db\\Utils\\Style.cs",
+              "RelativeDocumentMoniker": "Utils\\Style.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\db\\Utils\\Style.cs",
+              "RelativeToolTip": "Utils\\Style.cs",
+              "ViewState": "AQIAAAMAAAAAMDMzMzMLwAwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T08:31:20.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductionLineDB.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\db\\DL\\DB\\ProductionLineDB.cs",
+              "RelativeDocumentMoniker": "DL\\DB\\ProductionLineDB.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\db\\DL\\DB\\ProductionLineDB.cs",
+              "RelativeToolTip": "DL\\DB\\ProductionLineDB.cs",
+              "ViewState": "AQIAACwAAABgmZmZmdkwwAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T01:09:30.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuditLogDB.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\db\\DL\\DB\\AuditLogDB.cs",
+              "RelativeDocumentMoniker": "DL\\DB\\AuditLogDB.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\db\\DL\\DB\\AuditLogDB.cs",
+              "RelativeToolTip": "DL\\DB\\AuditLogDB.cs",
+              "ViewState": "AQIAAAkAAAAALzMzMzMbwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T01:09:11.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserDB.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\db\\DL\\DB\\UserDB.cs",
+              "RelativeDocumentMoniker": "DL\\DB\\UserDB.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\db\\DL\\DB\\UserDB.cs",
+              "RelativeToolTip": "DL\\DB\\UserDB.cs",
+              "ViewState": "AQIAAC0AAACAjpmZmZkZwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T01:07:07.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductionLine.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\db\\BL\\ProductionLine.cs",
+              "RelativeDocumentMoniker": "BL\\ProductionLine.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\db\\BL\\ProductionLine.cs",
+              "RelativeToolTip": "BL\\ProductionLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T01:06:34.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManufacturingStep.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\db\\BL\\ManufacturingStep.cs",
+              "RelativeDocumentMoniker": "BL\\ManufacturingStep.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\db\\BL\\ManufacturingStep.cs",
+              "RelativeToolTip": "BL\\ManufacturingStep.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T01:06:32.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Manufacturer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\db\\BL\\Manufacturer.cs",
+              "RelativeDocumentMoniker": "BL\\Manufacturer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\db\\BL\\Manufacturer.cs",
+              "RelativeToolTip": "BL\\Manufacturer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T01:06:29.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\db\\BL\\Item.cs",
+              "RelativeDocumentMoniker": "BL\\Item.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\db\\BL\\Item.cs",
+              "RelativeToolTip": "BL\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T01:06:26.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\db\\BL\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "BL\\InventoryItem.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\db\\BL\\InventoryItem.cs",
+              "RelativeToolTip": "BL\\InventoryItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T01:06:22.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\db\\BL\\Device.cs",
+              "RelativeDocumentMoniker": "BL\\Device.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\db\\BL\\Device.cs",
+              "RelativeToolTip": "BL\\Device.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwPQ0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T01:06:10.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CRUD.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\db\\BL\\CRUD.cs",
+              "RelativeDocumentMoniker": "BL\\CRUD.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\db\\BL\\CRUD.cs",
+              "RelativeToolTip": "BL\\CRUD.cs",
+              "ViewState": "AQIAAE4AAAAA2MzMzMzcvxUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T01:05:51.271Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
